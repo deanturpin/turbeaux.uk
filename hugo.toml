@@ -1,0 +1,23 @@
+baseURL = 'https://deanturpin.github.io/turbeaux.uk/'
+languageCode = 'en-gb'
+title = 'Dean Turbeaux - Electronic Music'
+
+[params]
+  description = "Electronic music artist creating immersive soundscapes and driving rhythms"
+  author = "Dean Turbeaux"
+
+[menu]
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+[[menu.main]]
+  name = "Events"
+  url = "/events/"
+  weight = 3
