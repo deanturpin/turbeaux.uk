@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+    <meta name="description" content="{{ .Site.Params.description }}">
+    <style>
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        nav { margin-bottom: 2rem; }
+        nav a { margin-right: 1rem; text-decoration: none; color: #0066cc; }
+        nav a:hover { text-decoration: underline; }
+        h1 { color: #222; }
+        .events { margin-top: 2rem; }
+        .event { margin-bottom: 1.5rem; padding: 1rem; border-left: 3px solid #0066cc; }
+    </style>
+</head>
+<body>
+    <nav>
+        {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}">{{ .Name }}</a>
+        {{ end }}
+    </nav>
+
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+</body>
+</html>

@@ -1,0 +1,17 @@
+{{ define "main" }}
+<article>
+    <h1>{{ .Title }}</h1>
+    {{ if .Params.date }}
+    <p><em>{{ .Date.Format "2 January 2006" }}</em></p>
+    {{ end }}
+    {{ if .Params.venue }}
+    <p><strong>Venue:</strong> {{ .Params.venue }}</p>
+    {{ end }}
+    {{ if .Params.location }}
+    <p><strong>Location:</strong> {{ .Params.location }}</p>
+    {{ end }}
+    <div class="content">
+        {{ .Content }}
+    </div>
+</article>
+{{ end }}

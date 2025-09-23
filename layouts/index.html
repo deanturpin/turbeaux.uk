@@ -1,0 +1,21 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+
+{{ $recentEvents := where site.RegularPages "Section" "events" | first 3 }}
+{{ if $recentEvents }}
+<h2>Upcoming Events</h2>
+<div class="events">
+    {{ range $recentEvents }}
+    <div class="event">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        {{ if .Params.venue }}
+        <p><strong>{{ .Params.venue }}</strong> - {{ .Params.location }}</p>
+        {{ end }}
+        <p>{{ .Date.Format "2 January 2006" }}</p>
+    </div>
+    {{ end }}
+</div>
+<p><a href="/events/">View all events →</a></p>
+{{ end }}
+{{ end }}
