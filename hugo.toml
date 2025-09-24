@@ -1,8 +1,13 @@
-baseURL = 'https://deanturpin.github.io/turbeaux.uk/'
+baseURL = 'https://turbeaux.uk/'
 languageCode = 'en-gb'
 title = 'Dean Turbeaux'
 theme = 'coder'
 defaultContentLanguage = "en"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
 [params]
   author = "Dean Turbeaux"
