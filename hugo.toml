@@ -1,24 +1,34 @@
 baseURL = 'https://deanturpin.github.io/turbeaux.uk/'
 languageCode = 'en-gb'
-title = 'Dean Turbeaux - Electronic Music'
+title = 'Dean Turbeaux'
 theme = 'coder'
+defaultContentLanguage = "en"
 
 [params]
-  description = "Electronic music artist creating immersive soundscapes and driving rhythms"
   author = "Dean Turbeaux"
+  description = "Electronic music artist creating immersive soundscapes and driving rhythms"
+  info = ["Electronic Music Artist", "Live Performer"]
+  keywords = "electronic music,artist,live performance,soundscapes"
+  colorScheme = "dark"
+  dateFormat = "January 2, 2006"
 
-[menu]
-[[menu.main]]
-  name = "Home"
-  url = "/"
+[[params.social]]
+  name = "Email"
+  icon = "fa-solid fa-envelope fa-2x"
   weight = 1
+  url = "mailto:dean@turbeaux.uk"
 
 [[menu.main]]
   name = "About"
-  url = "/about/"
+  url = "about/"
+  weight = 1
+
+[[menu.main]]
+  name = "Listen"
+  url = "listen/"
   weight = 2
 
 [[menu.main]]
   name = "Events"
-  url = "/events/"
+  url = "events/"
   weight = 3
