@@ -11,3 +11,6 @@ Electronic music artist creating immersive soundscapes and driving rhythms for l
 ## Latest
 
 Check out upcoming live events and get in touch for bookings and collaborations.
+
+See [tide](https://www.tidetimes.org.uk/brighton-marina-tide-times) and [sunset](https://www.timeanddate.com/astronomy/uk/brighton) times.
+

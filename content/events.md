@@ -4,8 +4,6 @@ date: 2025-01-01T00:00:00Z
 draft: false
 ---
 
-See [tide](https://www.tidetimes.org.uk) and [sunset](https://www.timeanddate.com/sun/uk) times.
-
 ## 2025
 
 - **15/08** - [Warm Your Cockles](https://www.coastworthing.co.uk/coast-cafe-events#calendar-28789a7a-7625-4724-a552-47c814b19499-event-3456cbb8-94e1-461b-ab48-e600a94fb906) (Pete Bones) @ Coast, Worthing (sunset 20:20, low tide 22:40)
