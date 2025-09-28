@@ -23,10 +23,10 @@ unsafe = true
   weight = 1
   url = "mailto:dean@turbeaux.uk"
 
-[[menu.main]]
-  name = "About"
-  url = "about/"
-  weight = 1
+# [[menu.main]]
+#   name = "About"
+#   url = "about/"
+#   weight = 1
 
 [[menu.main]]
   name = "Listen"
