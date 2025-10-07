@@ -4,8 +4,6 @@ date: 2024-01-01T00:00:00Z
 draft: true
 ---
 
-# About Dean Turbeaux
-
 Electronic music artist based in the UK, crafting immersive soundscapes and driving beats for live audiences.
 
 ## Bio

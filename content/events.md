@@ -1,6 +1,5 @@
 ---
-title: Events
-subtitle: Out and about
+title: "Events"
 date: 2025-01-01T00:00:00Z
 draft: false
 ---
