@@ -1,9 +1,9 @@
 ---
+title: Events
+subtitle: Out and about
 date: 2025-01-01T00:00:00Z
 draft: false
 ---
-
-# Live Events
 
 ## 2025
 
