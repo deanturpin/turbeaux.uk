@@ -1,8 +1,9 @@
 ---
-title: "Live Events"
 date: 2025-01-01T00:00:00Z
 draft: false
 ---
+
+# Live Events
 
 ## 2025
 
@@ -14,3 +15,4 @@ draft: false
 ## 2024
 
 - **10/08** - Shore Sound @ Carats, Shoreham
+
