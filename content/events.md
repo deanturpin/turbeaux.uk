@@ -4,6 +4,10 @@ date: 2025-01-01T00:00:00Z
 draft: false
 ---
 
+## 2026
+
+-  **27/03** - [Fear and Loathing](https://tikitid.com/events/27march-26)
+
 ## 2025
 
 - **29/11** - Nobody's Christmas
