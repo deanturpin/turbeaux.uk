@@ -27,3 +27,8 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+
+# Large video files (host externally)
+static/*.mp4
+static/*.mov
+static/*.avi
