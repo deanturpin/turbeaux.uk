@@ -37,8 +37,3 @@ unsafe = true
   name = "Events"
   url = "events/"
   weight = 3
-
-[[menu.main]]
-  name = "Videos"
-  url = "videos/"
-  weight = 4
