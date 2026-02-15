@@ -11,8 +11,8 @@ unsafe = true
 
 [params]
   author = "Dean Turbeaux"
-  description = "Electronic music artist creating immersive soundscapes and driving rhythms"
-  info = ["Electronic Music Artist", "Live Performer"]
+  # description = "Electronic music artist creating immersive soundscapes and driving rhythms"
+  # info = ["Electronic Music Artist", "Live Performer"]
   keywords = "electronic music,artist,live performance,soundscapes"
   colorScheme = "dark"
   dateFormat = "January 2, 2006"
