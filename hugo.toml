@@ -34,6 +34,6 @@ unsafe = true
   weight = 2
 
 [[menu.main]]
-  name = "See me"
+  name = "COME SEE ME"
   url = "events/"
   weight = 3
