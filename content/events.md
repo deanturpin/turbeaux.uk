@@ -6,7 +6,7 @@ draft: false
 
 ## 2026
 
-- **27/03** - [Fear and Loathing](https://tikitid.com/events/27march-26) (Garden set) @ Brighton Electric
+- **27/03** - [Fear and Loathing](https://tikitid.com/events/27march-26) (Garden set) @ Brighton Electric (7-8.30pm and 10-11pm)
 
 ## 2025
 
