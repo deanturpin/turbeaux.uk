@@ -6,6 +6,7 @@ draft: false
 
 ## 2026
 
+- **07/08** - [Shore Sound](https://www.mrtickets.app/event?eventId=41e6e100-8ede-4b86-a40d-c02fcf4518f6) (Josh Wink) @ Carats, Shoreham
 - **27/03** - [Fear and Loathing](https://tikitid.com/events/27march-26) (Garden set) @ Brighton Electric (7-8.30pm and 10-11pm)
 
 ## 2025
