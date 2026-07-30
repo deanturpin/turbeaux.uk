@@ -23,6 +23,13 @@ Final tune for Felix da Housecat at Shore Sound, Shoreham 09/08/2025.
 
 {{< youtube 7yCr0mQ0lc8 >}}
 
+## Live Clip
+
+<video controls playsinline preload="metadata" width="100%" style="max-width: 720px;">
+  <source src="/img_1640.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Tidal
 
 <iframe src="https://embed.tidal.com/tracks/5409337" width="500" height="120" allow="encrypted-media; fullscreen; clipboard-write https://embed.tidal.com; web-share" sandbox="allow-same-origin allow-scripts allow-forms allow-popups allow-popups-to-escape-sandbox" style="color-scheme: light dark" title="TIDAL Embed Player"></iframe>

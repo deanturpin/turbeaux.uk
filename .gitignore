@@ -29,6 +29,10 @@ Thumbs.db
 *.temp
 
 # Large video files (host externally)
+*.MOV
+*.mov
 static/*.mp4
 static/*.mov
 static/*.avi
+# Exception: web-optimised clip embedded on the listen page (45 MB, under GitHub Pages limits)
+!static/img_1640.mp4
