@@ -17,18 +17,18 @@ Find Dean Turbeaux's music across streaming platforms and music services.
 - [Mixcloud](https://www.mixcloud.com/deanturbeaux/)
 - [Bandcamp](https://deanturbeaux.bandcamp.com/)
 
-## Featured Video
-
-Final tune for Felix da Housecat at Shore Sound, Shoreham 09/08/2025.
-
-{{< youtube 7yCr0mQ0lc8 >}}
-
-## Live Clip
+## Fortune of War
 
 <video controls playsinline preload="metadata" width="100%" style="max-width: 720px;">
   <source src="/img_1640.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+## Featured Video
+
+Final tune for Felix da Housecat at Shore Sound, Shoreham 09/08/2025.
+
+{{< youtube 7yCr0mQ0lc8 >}}
 
 ## Tidal
 
