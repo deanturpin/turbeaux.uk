@@ -15,6 +15,15 @@ Find Dean Turbeaux's music across streaming platforms and music services.
 - [Mixcloud](https://www.mixcloud.com/deanturbeaux/)
 - [Bandcamp](https://deanturbeaux.bandcamp.com/)
 
+## Shore Sound
+
+Shore Sound with Josh Wink @ Carats, Shoreham 07/08/2026.
+
+<video controls playsinline preload="metadata" width="100%" style="max-width: 400px;">
+  <source src="/shore-sound-2026.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Fortune of War
 
 <video controls playsinline preload="metadata" width="100%" style="max-width: 720px;">

@@ -31,8 +31,11 @@ Thumbs.db
 # Large video files (host externally)
 *.MOV
 *.mov
+# Source clips dropped in the repo root before being copied into static/
+/*.mp4
 static/*.mp4
 static/*.mov
 static/*.avi
-# Exception: web-optimised clip embedded on the listen page (45 MB, under GitHub Pages limits)
+# Exception: web-optimised clips embedded on the listen page (under GitHub Pages limits)
 !static/img_1640.mp4
+!static/shore-sound-2026.mp4
