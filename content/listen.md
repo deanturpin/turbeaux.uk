@@ -6,8 +6,6 @@ draft: false
 
 Find Dean Turbeaux's music across streaming platforms and music services.
 
-## Latest mixes
-
 <iframe width="100%" height="400" src="https://player-widget.mixcloud.com/widget/iframe/?feed=%2Fdeanturbeaux%2Fxmas1%2F" frameborder="0" allow="encrypted-media; fullscreen; autoplay; idle-detection; speaker-selection; web-share;" ></iframe>
 
 ## Streaming Platforms
@@ -15,7 +13,7 @@ Find Dean Turbeaux's music across streaming platforms and music services.
 - [Mixcloud](https://www.mixcloud.com/deanturbeaux/)
 - [Bandcamp](https://deanturbeaux.bandcamp.com/)
 
-## Shore Sound
+## Shore Sound 2026
 
 Main set in the rave tent @ Carats, Shoreham 07/08/2026.
 
@@ -40,7 +38,7 @@ Cancelled DJ boat trip turned into an impromptu day party at the Fortune!
   Your browser does not support the video tag.
 </video>
 
-## Featured Video
+## Shore Sound 2025
 
 Final tune for Felix da Housecat at Shore Sound, Shoreham 09/08/2025.
 
