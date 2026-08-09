@@ -33,6 +33,8 @@ Bonus mini mix after Josh Wink.
 
 ## Fortune of War
 
+Cancelled DJ boat trip turned into an impromptu day party at the Fortune!
+
 <video controls playsinline preload="metadata" width="100%" style="max-width: 720px;">
   <source src="/img_1640.mp4" type="video/mp4">
   Your browser does not support the video tag.
