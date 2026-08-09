@@ -39,3 +39,4 @@ static/*.avi
 # Exception: web-optimised clips embedded on the listen page (under GitHub Pages limits)
 !static/img_1640.mp4
 !static/shore-sound-2026.mp4
+!static/shore-sound-2026-mini-mix.mp4
