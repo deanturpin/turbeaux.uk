@@ -29,11 +29,16 @@ unsafe = true
 #   weight = 1
 
 [[menu.main]]
-  name = "Listen"
-  url = "listen/"
+  name = "Audio"
+  url = "audio/"
   weight = 2
+
+[[menu.main]]
+  name = "Video"
+  url = "video/"
+  weight = 3
 
 [[menu.main]]
   name = "COME SEE ME"
   url = "events/"
-  weight = 3
+  weight = 4
