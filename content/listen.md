@@ -29,6 +29,13 @@ Bonus mini mix after Josh Wink.
   Your browser does not support the video tag.
 </video>
 
+View from the booth into the tent.
+
+<video controls playsinline preload="metadata" width="100%" style="max-width: 300px;">
+  <source src="/shore-sound-2026-crowd.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Fortune of War
 
 Cancelled DJ boat trip turned into an impromptu day party at the Fortune!
