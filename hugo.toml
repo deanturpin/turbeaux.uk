@@ -16,6 +16,7 @@ unsafe = true
   keywords = "electronic music,artist,live performance,soundscapes"
   colorScheme = "dark"
   dateFormat = "January 2, 2006"
+  customJS = ["js/single-video.js"]
 
 [[params.social]]
   name = "Email"
