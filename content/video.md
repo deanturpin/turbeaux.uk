@@ -15,17 +15,15 @@ Main set in the rave tent @ Carats, Shoreham 07/08/2026.
   Your browser does not support the video tag.
 </video>
 
+<video controls playsinline preload="metadata" width="100%" style="max-width: 300px;">
+  <source src="/shore-sound-2026-crowd.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 Bonus mini mix after Josh Wink.
 
 <video controls playsinline preload="metadata" width="100%" style="max-width: 400px;">
   <source src="/shore-sound-2026-mini-mix.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-View from the booth into the tent.
-
-<video controls playsinline preload="metadata" width="100%" style="max-width: 300px;">
-  <source src="/shore-sound-2026-crowd.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
