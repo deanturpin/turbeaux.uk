@@ -9,13 +9,13 @@ draft: false
 - **XX/12** - TBC
 - **29/08** - [Warm Your Cockles](https://www.tickettailor.com/events/thepiper/2205857) all dayer (X-Press 2) @ The Piper, St Leonards
 - **07/08** - [Shore Sound](https://www.mrtickets.app/event?eventId=41e6e100-8ede-4b86-a40d-c02fcf4518f6) (Josh Wink) @ Carats, Shoreham
-- **27/03** - [Fear and Loathing](https://tikitid.com/events/27march-26) (Pete Bones) @ Brighton Electric (7-8.30pm and 10-11pm)
+- **27/03** - [Fear and Loathing](https://tikitid.com/events/27march-26) (Pete Bones) @ Brighton Electric
 
 ## 2025
 
-- **29/11** - Nobody's Christmas headliner @ Brighton Electric
+- **29/11** - Nobody's Christmas @ Brighton Electric
 - **15/08** - [Warm Your Cockles](https://www.coastworthing.co.uk/coast-cafe-events#calendar-28789a7a-7625-4724-a552-47c814b19499-event-3456cbb8-94e1-461b-ab48-e600a94fb906) (Pete Bones) @ Coast, Worthing (sunset 20:20, low tide 22:40)
-- **09/08** - [Shore Sound](https://www.tickettailor.com/events/shoresound/1706908) (Felix da Housecat) @ Carats, Shoreham (sunset 20:31)
+- **09/08** - [Shore Sound](https://www.tickettailor.com/events/shoresound/1706908) (Felix da Housecat) @ Carats, Shoreham
 - **12/07** - [Shore Sound](https://www.tickettailor.com/events/shoresound/1634000) (Darren Emerson) @ Carats, Shoreham
 - **07/03** - Fear and Loathing (Pete Bones) @ Brighton Electric
 
