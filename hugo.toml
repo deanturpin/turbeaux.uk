@@ -4,6 +4,12 @@ title = 'Dean Turbeaux'
 theme = 'coder'
 defaultContentLanguage = "en"
 
+# Sitemap and crawling: last-modified dates come from git history, the empty
+# tag and category listings are not built, and robots.txt advertises the sitemap
+enableGitInfo = true
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
+
 [markup]
 [markup.goldmark]
 [markup.goldmark.renderer]
